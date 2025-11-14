@@ -265,7 +265,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	const form = document.getElementById('contactForm');
 	if (!form) return;
-	const TARGET_EMAIL = 'contact@huntsvilleholding.com'; // TODO: update to actual inbox
+	const TARGET_EMAIL = 'Johncglosemeyer@gmail.com';
 	const locationSelect = document.getElementById('location');
 	const requestSelect = document.getElementById('requestType');
 
